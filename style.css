@@ -138,14 +138,15 @@ body {
   
   a {
     color: #214E34;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'EB Garamond', sans-serif;
     font-size: 13px;
     font-weight: 900;
     text-align: left;
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 2px;}
+
     footer p {
-        text-align: center
+        text-align: center;
     }
 
